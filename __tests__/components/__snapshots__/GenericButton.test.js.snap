@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GenericButton renders correctly across screens 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "alignSelf": "center",
+      "backgroundColor": "#607D8B",
+      "borderRadius": 25,
+      "borderWidth": 0.5,
+      "height": 50,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": "80%",
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#212121",
+          "fontSize": 16,
+          "letterSpacing": 1.39,
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#212121",
+        },
+      ]
+    }
+  >
+    Submit
+  </Text>
+</View>
+`;

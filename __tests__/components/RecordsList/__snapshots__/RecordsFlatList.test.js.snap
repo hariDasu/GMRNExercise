@@ -1,0 +1,2471 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RecordsList test suite RecordsList renders correctly across screens 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "flex": 1,
+      "marginTop": 0,
+    }
+  }
+>
+  <RCTScrollView
+    data={
+      Array [
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Video/v4/bf/75/08/bf7508e4-395d-ab5b-97b3-ee7490329dfb/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Video/v4/bf/75/08/bf7508e4-395d-ab5b-97b3-ee7490329dfb/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Video/v4/bf/75/08/bf7508e4-395d-ab5b-97b3-ee7490329dfb/source/60x60bb.jpg",
+          "collectionCensoredName": "Battle Studies (Deluxe Version)",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 337970390,
+          "collectionName": "Battle Studies (Deluxe Version)",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/music-video/making-of-who-says/337970592?uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "kind": "music-video",
+          "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/d9/ee/cc/d9eecc2c-3844-b452-d367-7689db676879/mzvf_9205160895756745006.640x344.h264lc.U.p.m4v",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2009-11-17T08:00:00Z",
+          "trackCensoredName": "Making of 'Who Says'",
+          "trackCount": 15,
+          "trackExplicitness": "notExplicit",
+          "trackId": 337970592,
+          "trackName": "Making of 'Who Says'",
+          "trackNumber": 14,
+          "trackPrice": -1,
+          "trackTimeMillis": 126127,
+          "trackViewUrl": "https://music.apple.com/us/music-video/making-of-who-says/337970592?uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/db/8c/0cdb8c98-bfec-9342-cd05-89232f06f5ab/source/100x100bb.jpg",
+          "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/db/8c/0cdb8c98-bfec-9342-cd05-89232f06f5ab/source/30x30bb.jpg",
+          "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/db/8c/0cdb8c98-bfec-9342-cd05-89232f06f5ab/source/60x60bb.jpg",
+          "collectionCensoredName": "Say - Single",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 267890998,
+          "collectionName": "Say - Single",
+          "collectionPrice": 1.29,
+          "collectionViewUrl": "https://music.apple.com/us/album/say/267890998?i=267891024&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/9c/12/4e/9c124e28-851c-9345-4cfb-129bd0e26398/mzaf_7205652300259999529.plus.aac.p.m4a",
+          "primaryGenreName": "Pop",
+          "releaseDate": "2007-11-20T08:00:00Z",
+          "trackCensoredName": "Say",
+          "trackCount": 1,
+          "trackExplicitness": "notExplicit",
+          "trackId": 267891024,
+          "trackName": "Say",
+          "trackNumber": 1,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 230213,
+          "trackViewUrl": "https://music.apple.com/us/album/say/267890998?i=267891024&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/60x60bb.jpg",
+          "collectionCensoredName": "Continuum",
+          "collectionExplicitness": "cleaned",
+          "collectionId": 184335550,
+          "collectionName": "Continuum",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/waiting-on-the-world-to-change/184335550?i=184335560&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview20/v4/8e/fd/e0/8efde0e3-6967-6493-9f2d-23869174e315/mzaf_1904943406835518703.plus.aac.p.m4a",
+          "primaryGenreName": "Singer/Songwriter",
+          "releaseDate": "2006-07-11T07:00:00Z",
+          "trackCensoredName": "Waiting On the World to Change",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 184335560,
+          "trackName": "Waiting On the World to Change",
+          "trackNumber": 1,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 200667,
+          "trackViewUrl": "https://music.apple.com/us/album/waiting-on-the-world-to-change/184335550?i=184335560&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/60x60bb.jpg",
+          "collectionCensoredName": "Continuum",
+          "collectionExplicitness": "cleaned",
+          "collectionId": 184335550,
+          "collectionName": "Continuum",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/gravity/184335550?i=184335660&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview20/v4/97/4a/3e/974a3e49-b189-e403-54ed-b24fdecbb9ac/mzaf_9007814717066801739.plus.aac.p.m4a",
+          "primaryGenreName": "Singer/Songwriter",
+          "releaseDate": "2006-09-12T07:00:00Z",
+          "trackCensoredName": "Gravity",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 184335660,
+          "trackName": "Gravity",
+          "trackNumber": 4,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 245773,
+          "trackViewUrl": "https://music.apple.com/us/album/gravity/184335550?i=184335660&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/60x60bb.jpg",
+          "collectionCensoredName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 388127285,
+          "collectionName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/free-fallin-live/388127285?i=388127336&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 2,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9e/44/5e/9e445ea8-a320-a19e-b95a-9e65d4d24dad/mzaf_5870778938663620618.plus.aac.p.m4a",
+          "primaryGenreName": "Pop",
+          "releaseDate": "2008-07-01T07:00:00Z",
+          "trackCensoredName": "Free Fallin' (Live)",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 388127336,
+          "trackName": "Free Fallin'",
+          "trackNumber": 5,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 263573,
+          "trackViewUrl": "https://music.apple.com/us/album/free-fallin-live/388127285?i=388127336&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/3b/4d/cc/3b4dccff-53af-0c0c-8739-c7d72d808f10/source/100x100bb.jpg",
+          "artworkUrl30": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/3b/4d/cc/3b4dccff-53af-0c0c-8739-c7d72d808f10/source/30x30bb.jpg",
+          "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/3b/4d/cc/3b4dccff-53af-0c0c-8739-c7d72d808f10/source/60x60bb.jpg",
+          "collectionCensoredName": "Room for Squares",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 283699720,
+          "collectionName": "Room for Squares",
+          "collectionPrice": 9.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/your-body-is-a-wonderland/283699720?i=283699774&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/4b/39/30/mzm.aafzxpkn.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2001-06-05T07:00:00Z",
+          "trackCensoredName": "Your Body Is a Wonderland",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 283699774,
+          "trackName": "Your Body Is a Wonderland",
+          "trackNumber": 4,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 249627,
+          "trackViewUrl": "https://music.apple.com/us/album/your-body-is-a-wonderland/283699720?i=283699774&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/60x60bb.jpg",
+          "collectionCensoredName": "Continuum",
+          "collectionExplicitness": "cleaned",
+          "collectionId": 184335550,
+          "collectionName": "Continuum",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/dreaming-with-a-broken-heart/184335550?i=184335866&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview60/v4/f1/11/71/f111714d-9b96-7759-5b27-929de58f4d16/mzaf_3551013664983726585.plus.aac.p.m4a",
+          "primaryGenreName": "Singer/Songwriter",
+          "releaseDate": "2006-09-12T12:00:00Z",
+          "trackCensoredName": "Dreaming With a Broken Heart",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 184335866,
+          "trackName": "Dreaming With a Broken Heart",
+          "trackNumber": 10,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 247840,
+          "trackViewUrl": "https://music.apple.com/us/album/dreaming-with-a-broken-heart/184335550?i=184335866&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/60x60bb.jpg",
+          "collectionCensoredName": "Continuum",
+          "collectionExplicitness": "cleaned",
+          "collectionId": 184335550,
+          "collectionName": "Continuum",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/the-heart-of-life/184335550?i=184335728&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview30/v4/72/4b/a2/724ba2df-4bbd-fbef-9b33-5af8aa50cfae/mzaf_1994212589491483802.plus.aac.p.m4a",
+          "primaryGenreName": "Singer/Songwriter",
+          "releaseDate": "2006-09-12T07:00:00Z",
+          "trackCensoredName": "The Heart of Life",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 184335728,
+          "trackName": "The Heart of Life",
+          "trackNumber": 5,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 199080,
+          "trackViewUrl": "https://music.apple.com/us/album/the-heart-of-life/184335550?i=184335728&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/60x60bb.jpg",
+          "collectionCensoredName": "Continuum",
+          "collectionExplicitness": "cleaned",
+          "collectionId": 184335550,
+          "collectionName": "Continuum",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/slow-dancing-in-a-burning-room/184335550?i=184335793&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview20/v4/fb/53/84/fb5384cc-3e03-34a0-dc8b-f4af5c9f0d02/mzaf_8233837496864649446.plus.aac.p.m4a",
+          "primaryGenreName": "Singer/Songwriter",
+          "releaseDate": "2006-09-12T07:00:00Z",
+          "trackCensoredName": "Slow Dancing In a Burning Room",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 184335793,
+          "trackName": "Slow Dancing In a Burning Room",
+          "trackNumber": 8,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 241947,
+          "trackViewUrl": "https://music.apple.com/us/album/slow-dancing-in-a-burning-room/184335550?i=184335793&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/c4/d9/ed/c4d9ed50-f86f-35a8-94af-43a02d13815b/source/100x100bb.jpg",
+          "artworkUrl30": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/c4/d9/ed/c4d9ed50-f86f-35a8-94af-43a02d13815b/source/30x30bb.jpg",
+          "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/c4/d9/ed/c4d9ed50-f86f-35a8-94af-43a02d13815b/source/60x60bb.jpg",
+          "collectionCensoredName": "Heavier Things",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 199049977,
+          "collectionName": "Heavier Things",
+          "collectionPrice": 9.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/daughters/199049977?i=199051362&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview18/v4/f2/3d/80/f23d8018-4340-7ffc-c353-9ca30fcea876/mzaf_8812176195824484072.plus.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2003-09-09T07:00:00Z",
+          "trackCensoredName": "Daughters",
+          "trackCount": 10,
+          "trackExplicitness": "notExplicit",
+          "trackId": 199051362,
+          "trackName": "Daughters",
+          "trackNumber": 8,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 239320,
+          "trackViewUrl": "https://music.apple.com/us/album/daughters/199049977?i=199051362&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/82/7d/6c/827d6ca8-cfcb-f04d-060b-6649d693bbeb/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/82/7d/6c/827d6ca8-cfcb-f04d-060b-6649d693bbeb/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/82/7d/6c/827d6ca8-cfcb-f04d-060b-6649d693bbeb/source/60x60bb.jpg",
+          "collectionCensoredName": "Battle Studies (Deluxe Version)",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 337970390,
+          "collectionName": "Battle Studies (Deluxe Version)",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/heartbreak-warfare/337970390?i=337970487&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/2b/38/3e/mzm.oxlmkwtt.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2009-10-19T07:00:00Z",
+          "trackCensoredName": "Heartbreak Warfare",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 337970487,
+          "trackName": "Heartbreak Warfare",
+          "trackNumber": 1,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 269717,
+          "trackViewUrl": "https://music.apple.com/us/album/heartbreak-warfare/337970390?i=337970487&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/82/7d/6c/827d6ca8-cfcb-f04d-060b-6649d693bbeb/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/82/7d/6c/827d6ca8-cfcb-f04d-060b-6649d693bbeb/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/82/7d/6c/827d6ca8-cfcb-f04d-060b-6649d693bbeb/source/60x60bb.jpg",
+          "collectionCensoredName": "Battle Studies (Deluxe Version)",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 337970390,
+          "collectionName": "Battle Studies (Deluxe Version)",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/half-of-my-heart/337970390?i=337970492&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/3d/6d/98/mzm.zgtpqwtv.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2009-11-17T08:00:00Z",
+          "trackCensoredName": "Half of My Heart",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 337970492,
+          "trackName": "Half of My Heart",
+          "trackNumber": 3,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 250343,
+          "trackViewUrl": "https://music.apple.com/us/album/half-of-my-heart/337970390?i=337970492&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/60x60bb.jpg",
+          "collectionCensoredName": "Born and Raised",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 516701586,
+          "collectionName": "Born and Raised",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/shadow-days/516701586?i=516701712&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/b3/85/ea/mzm.xbnfzhld.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2012-03-06T08:00:00Z",
+          "trackCensoredName": "Shadow Days",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 516701712,
+          "trackName": "Shadow Days",
+          "trackNumber": 3,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 230293,
+          "trackViewUrl": "https://music.apple.com/us/album/shadow-days/516701586?i=516701712&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/60x60bb.jpg",
+          "collectionCensoredName": "Continuum",
+          "collectionExplicitness": "cleaned",
+          "collectionId": 184335550,
+          "collectionName": "Continuum",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/stop-this-train/184335550?i=184335777&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview60/v4/9c/6d/ef/9c6def13-2bf7-8287-e73b-639c1f35932d/mzaf_5194288165906601286.plus.aac.p.m4a",
+          "primaryGenreName": "Singer/Songwriter",
+          "releaseDate": "2006-09-12T07:00:00Z",
+          "trackCensoredName": "Stop This Train",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 184335777,
+          "trackName": "Stop This Train",
+          "trackNumber": 7,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 285133,
+          "trackViewUrl": "https://music.apple.com/us/album/stop-this-train/184335550?i=184335777&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/60x60bb.jpg",
+          "collectionCensoredName": "Continuum",
+          "collectionExplicitness": "cleaned",
+          "collectionId": 184335550,
+          "collectionName": "Continuum",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/i-dont-trust-myself-with-loving-you/184335550?i=184335561&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview60/v4/85/b4/69/85b46923-6382-585a-ea19-1591e4f7f7a9/mzaf_192415018206916462.plus.aac.p.m4a",
+          "primaryGenreName": "Singer/Songwriter",
+          "releaseDate": "2006-09-12T07:00:00Z",
+          "trackCensoredName": "I Don't Trust Myself (With Loving You)",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 184335561,
+          "trackName": "I Don't Trust Myself (With Loving You)",
+          "trackNumber": 2,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 292133,
+          "trackViewUrl": "https://music.apple.com/us/album/i-dont-trust-myself-with-loving-you/184335550?i=184335561&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/60x60bb.jpg",
+          "collectionCensoredName": "Continuum",
+          "collectionExplicitness": "cleaned",
+          "collectionId": 184335550,
+          "collectionName": "Continuum",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/im-gonna-find-another-you/184335550?i=184335953&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview20/v4/0f/77/d7/0f77d742-4720-23b1-9f19-737ac2e3dec5/mzaf_8374481049897822940.plus.aac.p.m4a",
+          "primaryGenreName": "Singer/Songwriter",
+          "releaseDate": "2006-09-12T12:00:00Z",
+          "trackCensoredName": "I'm Gonna Find Another You",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 184335953,
+          "trackName": "I'm Gonna Find Another You",
+          "trackNumber": 12,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 162920,
+          "trackViewUrl": "https://music.apple.com/us/album/im-gonna-find-another-you/184335550?i=184335953&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/82/7d/6c/827d6ca8-cfcb-f04d-060b-6649d693bbeb/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/82/7d/6c/827d6ca8-cfcb-f04d-060b-6649d693bbeb/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/82/7d/6c/827d6ca8-cfcb-f04d-060b-6649d693bbeb/source/60x60bb.jpg",
+          "collectionCensoredName": "Battle Studies (Deluxe Version)",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 337970390,
+          "collectionName": "Battle Studies (Deluxe Version)",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/who-says/337970390?i=337970495&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/9d/eb/30/mzm.surivolc.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2009-10-13T07:00:00Z",
+          "trackCensoredName": "Who Says",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 337970495,
+          "trackName": "Who Says",
+          "trackNumber": 4,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 175417,
+          "trackViewUrl": "https://music.apple.com/us/album/who-says/337970390?i=337970495&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/3b/4d/cc/3b4dccff-53af-0c0c-8739-c7d72d808f10/source/100x100bb.jpg",
+          "artworkUrl30": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/3b/4d/cc/3b4dccff-53af-0c0c-8739-c7d72d808f10/source/30x30bb.jpg",
+          "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/3b/4d/cc/3b4dccff-53af-0c0c-8739-c7d72d808f10/source/60x60bb.jpg",
+          "collectionCensoredName": "Room for Squares",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 283699720,
+          "collectionName": "Room for Squares",
+          "collectionPrice": 9.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/no-such-thing/283699720?i=283699764&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/b0/63/a0/mzm.nzgflded.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2001-06-05T07:00:00Z",
+          "trackCensoredName": "No Such Thing",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 283699764,
+          "trackName": "No Such Thing",
+          "trackNumber": 1,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 231467,
+          "trackViewUrl": "https://music.apple.com/us/album/no-such-thing/283699720?i=283699764&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/60x60bb.jpg",
+          "collectionCensoredName": "Continuum",
+          "collectionExplicitness": "cleaned",
+          "collectionId": 184335550,
+          "collectionName": "Continuum",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/in-repair/184335550?i=184335876&uo=4",
+          "contentAdvisoryRating": "Clean",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview60/v4/1f/bf/22/1fbf22b2-a024-a6bc-c90e-3631f36c7de8/mzaf_8212905080565914795.plus.aac.p.m4a",
+          "primaryGenreName": "Singer/Songwriter",
+          "releaseDate": "2006-09-12T12:00:00Z",
+          "trackCensoredName": "In Repair",
+          "trackCount": 12,
+          "trackExplicitness": "cleaned",
+          "trackId": 184335876,
+          "trackName": "In Repair",
+          "trackNumber": 11,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 369827,
+          "trackViewUrl": "https://music.apple.com/us/album/in-repair/184335550?i=184335876&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/60x60bb.jpg",
+          "collectionCensoredName": "Continuum",
+          "collectionExplicitness": "cleaned",
+          "collectionId": 184335550,
+          "collectionName": "Continuum",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/vultures/184335550?i=184335773&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview18/v4/6d/bf/a2/6dbfa2c5-700f-ff31-e5cf-ee4615978ff0/mzaf_8085456547347500497.plus.aac.p.m4a",
+          "primaryGenreName": "Singer/Songwriter",
+          "releaseDate": "2006-08-01T07:00:00Z",
+          "trackCensoredName": "Vultures",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 184335773,
+          "trackName": "Vultures",
+          "trackNumber": 6,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 251800,
+          "trackViewUrl": "https://music.apple.com/us/album/vultures/184335550?i=184335773&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/60x60bb.jpg",
+          "collectionCensoredName": "Continuum",
+          "collectionExplicitness": "cleaned",
+          "collectionId": 184335550,
+          "collectionName": "Continuum",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/belief/184335550?i=184335659&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview20/v4/07/be/b0/07beb09a-cc5f-998f-7384-f74471beab46/mzaf_7131451648346264925.plus.aac.p.m4a",
+          "primaryGenreName": "Singer/Songwriter",
+          "releaseDate": "2006-09-12T07:00:00Z",
+          "trackCensoredName": "Belief",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 184335659,
+          "trackName": "Belief",
+          "trackNumber": 3,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 242360,
+          "trackViewUrl": "https://music.apple.com/us/album/belief/184335550?i=184335659&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/3b/4d/cc/3b4dccff-53af-0c0c-8739-c7d72d808f10/source/100x100bb.jpg",
+          "artworkUrl30": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/3b/4d/cc/3b4dccff-53af-0c0c-8739-c7d72d808f10/source/30x30bb.jpg",
+          "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/3b/4d/cc/3b4dccff-53af-0c0c-8739-c7d72d808f10/source/60x60bb.jpg",
+          "collectionCensoredName": "Room for Squares",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 283699720,
+          "collectionName": "Room for Squares",
+          "collectionPrice": 9.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/why-georgia/283699720?i=283699769&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/e5/e9/d3/mzm.zvitbhgi.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2001-06-05T07:00:00Z",
+          "trackCensoredName": "Why Georgia",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 283699769,
+          "trackName": "Why Georgia",
+          "trackNumber": 2,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 268973,
+          "trackViewUrl": "https://music.apple.com/us/album/why-georgia/283699720?i=283699769&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/60x60bb.jpg",
+          "collectionCensoredName": "Continuum",
+          "collectionExplicitness": "cleaned",
+          "collectionId": 184335550,
+          "collectionName": "Continuum",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/bold-as-love/184335550?i=184335816&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview18/v4/38/bf/44/38bf44c0-4b8f-0122-6361-824d87329fdb/mzaf_1182582941502370553.plus.aac.p.m4a",
+          "primaryGenreName": "Singer/Songwriter",
+          "releaseDate": "2006-09-12T07:00:00Z",
+          "trackCensoredName": "Bold As Love",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 184335816,
+          "trackName": "Bold As Love",
+          "trackNumber": 9,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 258147,
+          "trackViewUrl": "https://music.apple.com/us/album/bold-as-love/184335550?i=184335816&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/3c/61/42/3c61420a-1ef5-af20-c67f-c87533a15c73/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/3c/61/42/3c61420a-1ef5-af20-c67f-c87533a15c73/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/3c/61/42/3c61420a-1ef5-af20-c67f-c87533a15c73/source/60x60bb.jpg",
+          "collectionCensoredName": "Paradise Valley",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 672720304,
+          "collectionName": "Paradise Valley",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/who-you-love-feat-katy-perry/672720304?i=672720452&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music6/v4/e1/4b/38/e14b38ad-ae4f-75e5-8e64-d536a53933ba/mzaf_6100589147689951183.plus.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2013-08-16T07:00:00Z",
+          "trackCensoredName": "Who You Love (feat. Katy Perry)",
+          "trackCount": 11,
+          "trackExplicitness": "notExplicit",
+          "trackId": 672720452,
+          "trackName": "Who You Love (feat. Katy Perry)",
+          "trackNumber": 6,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 252707,
+          "trackViewUrl": "https://music.apple.com/us/album/who-you-love-feat-katy-perry/672720304?i=672720452&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/60x60bb.jpg",
+          "collectionCensoredName": "Born and Raised",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 516701586,
+          "collectionName": "Born and Raised",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/queen-of-california/516701586?i=516701588&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/73/6a/64/mzm.ajqpyzld.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2012-05-22T07:00:00Z",
+          "trackCensoredName": "Queen of California",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 516701588,
+          "trackName": "Queen of California",
+          "trackNumber": 1,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 249308,
+          "trackViewUrl": "https://music.apple.com/us/album/queen-of-california/516701586?i=516701588&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/60x60bb.jpg",
+          "collectionCensoredName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 388127285,
+          "collectionName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/in-your-atmosphere-live/388127285?i=388127288&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 2,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/bc/2b/a5/mzm.qsgyutbn.aac.p.m4a",
+          "primaryGenreName": "Pop",
+          "releaseDate": "2008-07-01T07:00:00Z",
+          "trackCensoredName": "In Your Atmosphere (Live)",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 388127288,
+          "trackName": "In Your Atmosphere",
+          "trackNumber": 3,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 345627,
+          "trackViewUrl": "https://music.apple.com/us/album/in-your-atmosphere-live/388127285?i=388127288&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/60x60bb.jpg",
+          "collectionCensoredName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 388127285,
+          "collectionName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/slow-dancing-in-a-burning-room-live/388127285?i=388127454&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 2,
+          "discNumber": 2,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/ba/c5/9c/mzm.pnnpeghv.aac.p.m4a",
+          "primaryGenreName": "Pop",
+          "releaseDate": "2008-07-01T07:00:00Z",
+          "trackCensoredName": "Slow Dancing In a Burning Room (Live)",
+          "trackCount": 9,
+          "trackExplicitness": "notExplicit",
+          "trackId": 388127454,
+          "trackName": "Slow Dancing In a Burning Room",
+          "trackNumber": 2,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 319227,
+          "trackViewUrl": "https://music.apple.com/us/album/slow-dancing-in-a-burning-room-live/388127285?i=388127454&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/3c/61/42/3c61420a-1ef5-af20-c67f-c87533a15c73/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/3c/61/42/3c61420a-1ef5-af20-c67f-c87533a15c73/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/3c/61/42/3c61420a-1ef5-af20-c67f-c87533a15c73/source/60x60bb.jpg",
+          "collectionCensoredName": "Paradise Valley",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 672720304,
+          "collectionName": "Paradise Valley",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/wildfire/672720304?i=672720307&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music6/v4/2f/52/be/2f52beb7-080d-59e7-37c5-7e35af0c2612/mzaf_5047053511454139609.plus.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2013-07-16T07:00:00Z",
+          "trackCensoredName": "Wildfire",
+          "trackCount": 11,
+          "trackExplicitness": "notExplicit",
+          "trackId": 672720307,
+          "trackName": "Wildfire",
+          "trackNumber": 1,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 254266,
+          "trackViewUrl": "https://music.apple.com/us/album/wildfire/672720304?i=672720307&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/60x60bb.jpg",
+          "collectionCensoredName": "Born and Raised",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 516701586,
+          "collectionName": "Born and Raised",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/fool-to-love-you-bonus-track/516701586?i=516701822&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/fe/c5/d4/mzm.bwaizbzz.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2012-05-22T07:00:00Z",
+          "trackCensoredName": "Fool to Love You (Bonus Track)",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 516701822,
+          "trackName": "Fool to Love You (Bonus Track)",
+          "trackNumber": 13,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 138919,
+          "trackViewUrl": "https://music.apple.com/us/album/fool-to-love-you-bonus-track/516701586?i=516701822&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/60x60bb.jpg",
+          "collectionCensoredName": "Born and Raised",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 516701586,
+          "collectionName": "Born and Raised",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/born-and-raised/516701586?i=516701812&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/9d/76/cf/mzm.sfwxkgqn.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2012-05-22T07:00:00Z",
+          "trackCensoredName": "Born and Raised",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 516701812,
+          "trackName": "Born and Raised",
+          "trackNumber": 6,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 289252,
+          "trackViewUrl": "https://music.apple.com/us/album/born-and-raised/516701586?i=516701812&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/60x60bb.jpg",
+          "collectionCensoredName": "Born and Raised",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 516701586,
+          "collectionName": "Born and Raised",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/something-like-olivia/516701586?i=516701811&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/75/f7/6a/mzm.bhuhjibi.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2012-05-22T07:00:00Z",
+          "trackCensoredName": "Something Like Olivia",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 516701811,
+          "trackName": "Something Like Olivia",
+          "trackNumber": 5,
+          "trackPrice": 0.69,
+          "trackTimeMillis": 181347,
+          "trackViewUrl": "https://music.apple.com/us/album/something-like-olivia/516701586?i=516701811&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/3c/61/42/3c61420a-1ef5-af20-c67f-c87533a15c73/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/3c/61/42/3c61420a-1ef5-af20-c67f-c87533a15c73/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/3c/61/42/3c61420a-1ef5-af20-c67f-c87533a15c73/source/60x60bb.jpg",
+          "collectionCensoredName": "Paradise Valley",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 672720304,
+          "collectionName": "Paradise Valley",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/paper-doll/672720304?i=672720450&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/76/b7/12/76b712ef-f7ab-72a5-cb8e-a0bfed5963be/mzaf_7472311831043382291.plus.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2013-06-18T07:00:00Z",
+          "trackCensoredName": "Paper Doll",
+          "trackCount": 11,
+          "trackExplicitness": "notExplicit",
+          "trackId": 672720450,
+          "trackName": "Paper Doll",
+          "trackNumber": 4,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 259960,
+          "trackViewUrl": "https://music.apple.com/us/album/paper-doll/672720304?i=672720450&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/60x60bb.jpg",
+          "collectionCensoredName": "Born and Raised",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 516701586,
+          "collectionName": "Born and Raised",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/the-age-of-worry/516701586?i=516701711&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/2f/e0/1f/mzm.zxshepny.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2012-05-22T07:00:00Z",
+          "trackCensoredName": "The Age of Worry",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 516701711,
+          "trackName": "The Age of Worry",
+          "trackNumber": 2,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 159720,
+          "trackViewUrl": "https://music.apple.com/us/album/the-age-of-worry/516701586?i=516701711&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/60x60bb.jpg",
+          "collectionCensoredName": "Born and Raised",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 516701586,
+          "collectionName": "Born and Raised",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/love-is-a-verb/516701586?i=516701814&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/ac/83/9e/mzm.tuvjkkff.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2012-05-22T07:00:00Z",
+          "trackCensoredName": "Love Is a Verb",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 516701814,
+          "trackName": "Love Is a Verb",
+          "trackNumber": 8,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 147960,
+          "trackViewUrl": "https://music.apple.com/us/album/love-is-a-verb/516701586?i=516701814&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/60x60bb.jpg",
+          "collectionCensoredName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 388127285,
+          "collectionName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/why-georgia-live/388127285?i=388127468&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 2,
+          "discNumber": 2,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/ff/c6/d9/mzm.qhlukmvv.aac.p.m4a",
+          "primaryGenreName": "Pop",
+          "releaseDate": "2008-07-01T07:00:00Z",
+          "trackCensoredName": "Why Georgia (Live)",
+          "trackCount": 9,
+          "trackExplicitness": "notExplicit",
+          "trackId": 388127468,
+          "trackName": "Why Georgia",
+          "trackNumber": 3,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 267400,
+          "trackViewUrl": "https://music.apple.com/us/album/why-georgia-live/388127285?i=388127468&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/60x60bb.jpg",
+          "collectionCensoredName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 388127285,
+          "collectionName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/daughters-live/388127285?i=388127308&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 2,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/54/07/53/mzm.uzynsuns.aac.p.m4a",
+          "primaryGenreName": "Pop",
+          "releaseDate": "2008-07-01T07:00:00Z",
+          "trackCensoredName": "Daughters (Live)",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 388127308,
+          "trackName": "Daughters",
+          "trackNumber": 4,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 304600,
+          "trackViewUrl": "https://music.apple.com/us/album/daughters-live/388127285?i=388127308&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/60x60bb.jpg",
+          "collectionCensoredName": "Born and Raised",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 516701586,
+          "collectionName": "Born and Raised",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/a-face-to-call-home/516701586?i=516701820&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/ac/14/f8/mzm.qvmfqtvt.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2012-05-22T07:00:00Z",
+          "trackCensoredName": "A Face to Call Home",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 516701820,
+          "trackName": "A Face to Call Home",
+          "trackNumber": 11,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 286467,
+          "trackViewUrl": "https://music.apple.com/us/album/a-face-to-call-home/516701586?i=516701820&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/60x60bb.jpg",
+          "collectionCensoredName": "Born and Raised",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 516701586,
+          "collectionName": "Born and Raised",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/if-i-ever-get-around-to-living/516701586?i=516701813&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/da/6e/5c/mzm.ukymnfrx.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2012-05-22T07:00:00Z",
+          "trackCensoredName": "If I Ever Get Around to Living",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 516701813,
+          "trackName": "If I Ever Get Around to Living",
+          "trackNumber": 7,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 321721,
+          "trackViewUrl": "https://music.apple.com/us/album/if-i-ever-get-around-to-living/516701586?i=516701813&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/60x60bb.jpg",
+          "collectionCensoredName": "Born and Raised",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 516701586,
+          "collectionName": "Born and Raised",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/whiskey-whiskey-whiskey/516701586?i=516701818&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/cc/a6/bc/mzm.gkwwqvup.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2012-05-22T07:00:00Z",
+          "trackCensoredName": "Whiskey, Whiskey, Whiskey",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 516701818,
+          "trackName": "Whiskey, Whiskey, Whiskey",
+          "trackNumber": 10,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 279440,
+          "trackViewUrl": "https://music.apple.com/us/album/whiskey-whiskey-whiskey/516701586?i=516701818&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/60x60bb.jpg",
+          "collectionCensoredName": "Born and Raised",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 516701586,
+          "collectionName": "Born and Raised",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/speak-for-me/516701586?i=516701810&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/c1/29/4d/mzm.lhwxiyov.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2012-05-22T07:00:00Z",
+          "trackCensoredName": "Speak for Me",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 516701810,
+          "trackName": "Speak for Me",
+          "trackNumber": 4,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 225507,
+          "trackViewUrl": "https://music.apple.com/us/album/speak-for-me/516701586?i=516701810&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/c4/d9/ed/c4d9ed50-f86f-35a8-94af-43a02d13815b/source/100x100bb.jpg",
+          "artworkUrl30": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/c4/d9/ed/c4d9ed50-f86f-35a8-94af-43a02d13815b/source/30x30bb.jpg",
+          "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/c4/d9/ed/c4d9ed50-f86f-35a8-94af-43a02d13815b/source/60x60bb.jpg",
+          "collectionCensoredName": "Heavier Things",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 199049977,
+          "collectionName": "Heavier Things",
+          "collectionPrice": 9.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/clarity/199049977?i=199050021&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview20/v4/b6/3b/cd/b63bcd1b-b0d0-25f5-ae6a-e532681daafa/mzaf_6771931034425794796.plus.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2003-09-09T07:00:00Z",
+          "trackCensoredName": "Clarity",
+          "trackCount": 10,
+          "trackExplicitness": "notExplicit",
+          "trackId": 199050021,
+          "trackName": "Clarity",
+          "trackNumber": 1,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 271760,
+          "trackViewUrl": "https://music.apple.com/us/album/clarity/199049977?i=199050021&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/82/7d/6c/827d6ca8-cfcb-f04d-060b-6649d693bbeb/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/82/7d/6c/827d6ca8-cfcb-f04d-060b-6649d693bbeb/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/82/7d/6c/827d6ca8-cfcb-f04d-060b-6649d693bbeb/source/60x60bb.jpg",
+          "collectionCensoredName": "Battle Studies (Deluxe Version)",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 337970390,
+          "collectionName": "Battle Studies (Deluxe Version)",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/perfectly-lonely/337970390?i=337970497&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/b2/8a/a7/mzm.mpjnskgs.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2009-11-17T08:00:00Z",
+          "trackCensoredName": "Perfectly Lonely",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 337970497,
+          "trackName": "Perfectly Lonely",
+          "trackNumber": 5,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 268043,
+          "trackViewUrl": "https://music.apple.com/us/album/perfectly-lonely/337970390?i=337970497&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/60x60bb.jpg",
+          "collectionCensoredName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 388127285,
+          "collectionName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/gravity-live/388127285?i=388127511&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 2,
+          "discNumber": 2,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/a4/f1/8c/mzm.grplyioi.aac.p.m4a",
+          "primaryGenreName": "Pop",
+          "releaseDate": "2008-07-01T07:00:00Z",
+          "trackCensoredName": "Gravity (Live)",
+          "trackCount": 9,
+          "trackExplicitness": "notExplicit",
+          "trackId": 388127511,
+          "trackName": "Gravity",
+          "trackNumber": 6,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 581067,
+          "trackViewUrl": "https://music.apple.com/us/album/gravity-live/388127285?i=388127511&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/60x60bb.jpg",
+          "collectionCensoredName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 388127285,
+          "collectionName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/stop-this-train-live/388127285?i=388127572&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 2,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/ce/06/e3/mzm.ulrzjhic.aac.p.m4a",
+          "primaryGenreName": "Pop",
+          "releaseDate": "2008-07-01T07:00:00Z",
+          "trackCensoredName": "Stop This Train (Live)",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 388127572,
+          "trackName": "Stop This Train",
+          "trackNumber": 2,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 300200,
+          "trackViewUrl": "https://music.apple.com/us/album/stop-this-train-live/388127285?i=388127572&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/60x60bb.jpg",
+          "collectionCensoredName": "Born and Raised",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 516701586,
+          "collectionName": "Born and Raised",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/walt-graces-submarine-test-january-1967/516701586?i=516701815&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/50/fb/94/mzm.lijdspvz.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2012-05-22T07:00:00Z",
+          "trackCensoredName": "Walt Grace's Submarine Test, January 1967",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 516701815,
+          "trackName": "Walt Grace's Submarine Test, January 1967",
+          "trackNumber": 9,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 310240,
+          "trackViewUrl": "https://music.apple.com/us/album/walt-graces-submarine-test-january-1967/516701586?i=516701815&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/60x60bb.jpg",
+          "collectionCensoredName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 388127285,
+          "collectionName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/waiting-on-the-world-to-change-live/388127285?i=388127444&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 2,
+          "discNumber": 2,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/8a/8b/79/mzm.zmmvsmnc.aac.p.m4a",
+          "primaryGenreName": "Pop",
+          "releaseDate": "2008-07-01T07:00:00Z",
+          "trackCensoredName": "Waiting On the World to Change (Live)",
+          "trackCount": 9,
+          "trackExplicitness": "notExplicit",
+          "trackId": 388127444,
+          "trackName": "Waiting On the World to Change",
+          "trackNumber": 1,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 230800,
+          "trackViewUrl": "https://music.apple.com/us/album/waiting-on-the-world-to-change-live/388127285?i=388127444&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/60x60bb.jpg",
+          "collectionCensoredName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 388127285,
+          "collectionName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/neon-live/388127285?i=388127559&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 2,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/b6/f9/d7/mzm.aeuutlqu.aac.p.m4a",
+          "primaryGenreName": "Pop",
+          "releaseDate": "2008-07-01T07:00:00Z",
+          "trackCensoredName": "Neon (Live)",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 388127559,
+          "trackName": "Neon",
+          "trackNumber": 1,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 355733,
+          "trackViewUrl": "https://music.apple.com/us/album/neon-live/388127285?i=388127559&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/82/7d/6c/827d6ca8-cfcb-f04d-060b-6649d693bbeb/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/82/7d/6c/827d6ca8-cfcb-f04d-060b-6649d693bbeb/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/82/7d/6c/827d6ca8-cfcb-f04d-060b-6649d693bbeb/source/60x60bb.jpg",
+          "collectionCensoredName": "Battle Studies (Deluxe Version)",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 337970390,
+          "collectionName": "Battle Studies (Deluxe Version)",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/edge-of-desire/337970390?i=337970515&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/9b/11/a7/mzm.memiavgb.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2009-11-17T08:00:00Z",
+          "trackCensoredName": "Edge of Desire",
+          "trackCount": 12,
+          "trackExplicitness": "notExplicit",
+          "trackId": 337970515,
+          "trackName": "Edge of Desire",
+          "trackNumber": 9,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 331995,
+          "trackViewUrl": "https://music.apple.com/us/album/edge-of-desire/337970390?i=337970515&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/60x60bb.jpg",
+          "collectionCensoredName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 388127285,
+          "collectionName": "Where the Light Is: John Mayer Live in Los Angeles",
+          "collectionPrice": 13.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/out-of-my-mind-live/388127285?i=388127406&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 2,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/11/0d/d8/mzm.wnbydjly.aac.p.m4a",
+          "primaryGenreName": "Pop",
+          "releaseDate": "2008-07-01T07:00:00Z",
+          "trackCensoredName": "Out of My Mind (Live)",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 388127406,
+          "trackName": "Out of My Mind",
+          "trackNumber": 11,
+          "trackPrice": -1,
+          "trackTimeMillis": 610533,
+          "trackViewUrl": "https://music.apple.com/us/album/out-of-my-mind-live/388127285?i=388127406&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 472054,
+          "artistName": "John Mayer",
+          "artistViewUrl": "https://music.apple.com/us/artist/john-mayer/472054?uo=4",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/100x100bb.jpg",
+          "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/30x30bb.jpg",
+          "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/00/8f/30/008f301c-ef9b-ce9b-79c9-c4e7ae9de4e3/source/60x60bb.jpg",
+          "collectionCensoredName": "Born and Raised",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 516701586,
+          "collectionName": "Born and Raised",
+          "collectionPrice": 10.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/born-and-raised-reprise/516701586?i=516701821&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/6c/3e/32/mzm.njvlajjm.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2012-05-22T07:00:00Z",
+          "trackCensoredName": "Born and Raised (Reprise)",
+          "trackCount": 13,
+          "trackExplicitness": "notExplicit",
+          "trackId": 516701821,
+          "trackName": "Born and Raised",
+          "trackNumber": 12,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 123439,
+          "trackViewUrl": "https://music.apple.com/us/album/born-and-raised-reprise/516701586?i=516701821&uo=4",
+          "wrapperType": "track",
+        },
+      ]
+    }
+    disableVirtualization={false}
+    getItem={[Function]}
+    getItemCount={[Function]}
+    horizontal={false}
+    initialNumToRender={10}
+    keyExtractor={[Function]}
+    maxToRenderPerBatch={10}
+    onContentSizeChange={[Function]}
+    onEndReachedThreshold={2}
+    onLayout={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={Array []}
+    updateCellsBatchingPeriod={50}
+    viewabilityConfigCallbackPairs={Array []}
+    windowSize={21}
+  >
+    <View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "alignSelf": "center",
+              "backgroundColor": "white",
+              "borderColor": "#d3d3d3",
+              "borderRadius": 5,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "marginBottom": 5,
+              "marginTop": 5,
+              "padding": 10,
+              "shadowColor": "rgba(0,0,0, .2)",
+              "shadowOffset": Object {
+                "height": 0,
+                "width": 0,
+              },
+              "shadowOpacity": 3,
+              "shadowRadius": 2,
+              "width": "90%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://is3-ssl.mzstatic.com/image/thumb/Video/v4/bf/75/08/bf7508e4-395d-ab5b-97b3-ee7490329dfb/source/100x100bb.jpg",
+                }
+              }
+              style={
+                Object {
+                  "height": 100,
+                  "width": 100,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "alignSelf": "center",
+                "flex": 1,
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text>
+              John Mayer
+               - 
+              Making of 'Who Says'
+            </Text>
+            <Text>
+              Genre: 
+              Rock
+            </Text>
+            <Text>
+              Price: 
+              -1
+            </Text>
+            <Text>
+              Released: 
+              2009-11-17T08:00:00Z
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "alignSelf": "center",
+              "backgroundColor": "white",
+              "borderColor": "#d3d3d3",
+              "borderRadius": 5,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "marginBottom": 5,
+              "marginTop": 5,
+              "padding": 10,
+              "shadowColor": "rgba(0,0,0, .2)",
+              "shadowOffset": Object {
+                "height": 0,
+                "width": 0,
+              },
+              "shadowOpacity": 3,
+              "shadowRadius": 2,
+              "width": "90%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/db/8c/0cdb8c98-bfec-9342-cd05-89232f06f5ab/source/100x100bb.jpg",
+                }
+              }
+              style={
+                Object {
+                  "height": 100,
+                  "width": 100,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "alignSelf": "center",
+                "flex": 1,
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text>
+              John Mayer
+               - 
+              Say
+            </Text>
+            <Text>
+              Genre: 
+              Pop
+            </Text>
+            <Text>
+              Price: 
+              1.29
+            </Text>
+            <Text>
+              Released: 
+              2007-11-20T08:00:00Z
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "alignSelf": "center",
+              "backgroundColor": "white",
+              "borderColor": "#d3d3d3",
+              "borderRadius": 5,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "marginBottom": 5,
+              "marginTop": 5,
+              "padding": 10,
+              "shadowColor": "rgba(0,0,0, .2)",
+              "shadowOffset": Object {
+                "height": 0,
+                "width": 0,
+              },
+              "shadowOpacity": 3,
+              "shadowRadius": 2,
+              "width": "90%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+                }
+              }
+              style={
+                Object {
+                  "height": 100,
+                  "width": 100,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "alignSelf": "center",
+                "flex": 1,
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text>
+              John Mayer
+               - 
+              Waiting On the World to Change
+            </Text>
+            <Text>
+              Genre: 
+              Singer/Songwriter
+            </Text>
+            <Text>
+              Price: 
+              1.29
+            </Text>
+            <Text>
+              Released: 
+              2006-07-11T07:00:00Z
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "alignSelf": "center",
+              "backgroundColor": "white",
+              "borderColor": "#d3d3d3",
+              "borderRadius": 5,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "marginBottom": 5,
+              "marginTop": 5,
+              "padding": 10,
+              "shadowColor": "rgba(0,0,0, .2)",
+              "shadowOffset": Object {
+                "height": 0,
+                "width": 0,
+              },
+              "shadowOpacity": 3,
+              "shadowRadius": 2,
+              "width": "90%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+                }
+              }
+              style={
+                Object {
+                  "height": 100,
+                  "width": 100,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "alignSelf": "center",
+                "flex": 1,
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text>
+              John Mayer
+               - 
+              Gravity
+            </Text>
+            <Text>
+              Genre: 
+              Singer/Songwriter
+            </Text>
+            <Text>
+              Price: 
+              1.29
+            </Text>
+            <Text>
+              Released: 
+              2006-09-12T07:00:00Z
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "alignSelf": "center",
+              "backgroundColor": "white",
+              "borderColor": "#d3d3d3",
+              "borderRadius": 5,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "marginBottom": 5,
+              "marginTop": 5,
+              "padding": 10,
+              "shadowColor": "rgba(0,0,0, .2)",
+              "shadowOffset": Object {
+                "height": 0,
+                "width": 0,
+              },
+              "shadowOpacity": 3,
+              "shadowRadius": 2,
+              "width": "90%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/61/38/bd/6138bd9d-08ec-9fca-7e16-8b850d60b363/source/100x100bb.jpg",
+                }
+              }
+              style={
+                Object {
+                  "height": 100,
+                  "width": 100,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "alignSelf": "center",
+                "flex": 1,
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text>
+              John Mayer
+               - 
+              Free Fallin'
+            </Text>
+            <Text>
+              Genre: 
+              Pop
+            </Text>
+            <Text>
+              Price: 
+              1.29
+            </Text>
+            <Text>
+              Released: 
+              2008-07-01T07:00:00Z
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "alignSelf": "center",
+              "backgroundColor": "white",
+              "borderColor": "#d3d3d3",
+              "borderRadius": 5,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "marginBottom": 5,
+              "marginTop": 5,
+              "padding": 10,
+              "shadowColor": "rgba(0,0,0, .2)",
+              "shadowOffset": Object {
+                "height": 0,
+                "width": 0,
+              },
+              "shadowOpacity": 3,
+              "shadowRadius": 2,
+              "width": "90%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/3b/4d/cc/3b4dccff-53af-0c0c-8739-c7d72d808f10/source/100x100bb.jpg",
+                }
+              }
+              style={
+                Object {
+                  "height": 100,
+                  "width": 100,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "alignSelf": "center",
+                "flex": 1,
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text>
+              John Mayer
+               - 
+              Your Body Is a Wonderland
+            </Text>
+            <Text>
+              Genre: 
+              Rock
+            </Text>
+            <Text>
+              Price: 
+              1.29
+            </Text>
+            <Text>
+              Released: 
+              2001-06-05T07:00:00Z
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "alignSelf": "center",
+              "backgroundColor": "white",
+              "borderColor": "#d3d3d3",
+              "borderRadius": 5,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "marginBottom": 5,
+              "marginTop": 5,
+              "padding": 10,
+              "shadowColor": "rgba(0,0,0, .2)",
+              "shadowOffset": Object {
+                "height": 0,
+                "width": 0,
+              },
+              "shadowOpacity": 3,
+              "shadowRadius": 2,
+              "width": "90%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+                }
+              }
+              style={
+                Object {
+                  "height": 100,
+                  "width": 100,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "alignSelf": "center",
+                "flex": 1,
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text>
+              John Mayer
+               - 
+              Dreaming With a Broken Heart
+            </Text>
+            <Text>
+              Genre: 
+              Singer/Songwriter
+            </Text>
+            <Text>
+              Price: 
+              1.29
+            </Text>
+            <Text>
+              Released: 
+              2006-09-12T12:00:00Z
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "alignSelf": "center",
+              "backgroundColor": "white",
+              "borderColor": "#d3d3d3",
+              "borderRadius": 5,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "marginBottom": 5,
+              "marginTop": 5,
+              "padding": 10,
+              "shadowColor": "rgba(0,0,0, .2)",
+              "shadowOffset": Object {
+                "height": 0,
+                "width": 0,
+              },
+              "shadowOpacity": 3,
+              "shadowRadius": 2,
+              "width": "90%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+                }
+              }
+              style={
+                Object {
+                  "height": 100,
+                  "width": 100,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "alignSelf": "center",
+                "flex": 1,
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text>
+              John Mayer
+               - 
+              The Heart of Life
+            </Text>
+            <Text>
+              Genre: 
+              Singer/Songwriter
+            </Text>
+            <Text>
+              Price: 
+              1.29
+            </Text>
+            <Text>
+              Released: 
+              2006-09-12T07:00:00Z
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "alignSelf": "center",
+              "backgroundColor": "white",
+              "borderColor": "#d3d3d3",
+              "borderRadius": 5,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "marginBottom": 5,
+              "marginTop": 5,
+              "padding": 10,
+              "shadowColor": "rgba(0,0,0, .2)",
+              "shadowOffset": Object {
+                "height": 0,
+                "width": 0,
+              },
+              "shadowOpacity": 3,
+              "shadowRadius": 2,
+              "width": "90%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg",
+                }
+              }
+              style={
+                Object {
+                  "height": 100,
+                  "width": 100,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "alignSelf": "center",
+                "flex": 1,
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text>
+              John Mayer
+               - 
+              Slow Dancing In a Burning Room
+            </Text>
+            <Text>
+              Genre: 
+              Singer/Songwriter
+            </Text>
+            <Text>
+              Price: 
+              1.29
+            </Text>
+            <Text>
+              Released: 
+              2006-09-12T07:00:00Z
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "alignSelf": "center",
+              "backgroundColor": "white",
+              "borderColor": "#d3d3d3",
+              "borderRadius": 5,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "marginBottom": 5,
+              "marginTop": 5,
+              "padding": 10,
+              "shadowColor": "rgba(0,0,0, .2)",
+              "shadowOffset": Object {
+                "height": 0,
+                "width": 0,
+              },
+              "shadowOpacity": 3,
+              "shadowRadius": 2,
+              "width": "90%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/c4/d9/ed/c4d9ed50-f86f-35a8-94af-43a02d13815b/source/100x100bb.jpg",
+                }
+              }
+              style={
+                Object {
+                  "height": 100,
+                  "width": 100,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "alignSelf": "center",
+                "flex": 1,
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text>
+              John Mayer
+               - 
+              Daughters
+            </Text>
+            <Text>
+              Genre: 
+              Rock
+            </Text>
+            <Text>
+              Price: 
+              1.29
+            </Text>
+            <Text>
+              Released: 
+              2003-09-09T07:00:00Z
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": 0,
+          }
+        }
+      />
+    </View>
+  </RCTScrollView>
+</RCTSafeAreaView>
+`;
